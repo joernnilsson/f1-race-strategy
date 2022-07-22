@@ -1,0 +1,8 @@
+name: Monte-Carlo
+grand_prix_name: Monaco Grand Prix
+length: 5000
+laps: 50
+latest_session:
+  year: 2021
+  type: R
+length_measured: 3288.0638888888925
